@@ -23,7 +23,7 @@ I'm a recent medical graduate from Iran. I'm also a math enthusiast, and I'm exc
 
 ## Meme
 
-![meme](meme.png)
+![meme](favmeme.png)
 
 
 
